@@ -1,0 +1,4 @@
+full name: Yakimenok Daria Sergeevna
+age: 35
+count home pets: 0
+salary:1000 
