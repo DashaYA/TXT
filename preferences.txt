@@ -1,0 +1,5 @@
+film: Forrest Gump
+serial: Wednesday
+food: delicious
+season: Summer
+side of the world: Cyprus
